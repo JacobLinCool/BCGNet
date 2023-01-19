@@ -1,3 +1,8 @@
+##
+open in colab demo
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/htylab/bcgnet/colabdemo.ipynb)
+
 BCGNet: Deep Learning Toolbox for BCG Artifact Reduction
 ========================================================
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
