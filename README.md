@@ -1,7 +1,7 @@
 ##
 open in colab demo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/htylab/blob/master/BCGNet/colabdemo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/htylab/BCGNet/blob/master/colabdemo.ipynb)
 
 BCGNet: Deep Learning Toolbox for BCG Artifact Reduction
 ========================================================
